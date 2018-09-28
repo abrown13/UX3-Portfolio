@@ -43,12 +43,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "DA492921-B1BF-4A21-9148-15A285E9CC97"
+      "class": "shapeGroup",
+      "id": "7A052BD3-B1C2-41A7-9B61-42552672F098"
     },
     {
       "class": "bitmap",
-      "id": "E3E6F3A5-924C-49EF-804E-8C9744613FA2"
+      "id": "7688D758-503E-4B49-9652-B0EA00C628B2"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA492921-B1BF-4A21-9148-15A285E9CC97"
     },
     {
       "class": "bitmap",
@@ -61,6 +65,14 @@
     {
       "class": "bitmap",
       "id": "F7A79402-854A-4355-936C-F383ADEE5298"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBF839CF-97D8-42CF-A87A-5BC6B1CCC1C5"
+    },
+    {
+      "class": "bitmap",
+      "id": "0778A8F1-4FD7-450D-8B35-01EBFA30C5AC"
     },
     {
       "class": "group",
