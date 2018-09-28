@@ -25,7 +25,7 @@
     "x": 94,
     "y": 114
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,10 @@
     {
       "class": "text",
       "id": "181C23C9-25F6-4610-911F-3152F982E47A"
+    },
+    {
+      "class": "text",
+      "id": "7E53591D-A3DB-484E-8BE8-19FFCA195901"
     }
   ],
   "name": "Bio",
