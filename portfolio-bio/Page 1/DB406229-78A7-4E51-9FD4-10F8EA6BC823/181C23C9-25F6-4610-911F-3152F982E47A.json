@@ -32,7 +32,6 @@
     "string": "300 word bio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "181C23C9-25F6-4610-911F-3152F982E47A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,7 +52,6 @@
     "y": 66
   },
   "glyphBounds": "{{0, 2}, {69, 10}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +66,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,8 +92,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

@@ -1,6 +1,5 @@
 {
   "_class": "page",
-  "booleanOperation": -1,
   "do_objectID": "11EE2DE2-2B63-4479-8687-C12CA4096A4C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -27,7 +26,6 @@
     ]
   },
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -59,10 +57,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",

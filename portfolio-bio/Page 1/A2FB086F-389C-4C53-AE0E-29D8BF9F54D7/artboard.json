@@ -7,7 +7,6 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
   "do_objectID": "A2FB086F-389C-4C53-AE0E-29D8BF9F54D7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,7 +35,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -46,51 +44,31 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "68537D8C-C454-4D78-BED1-B615D1C0E2F7"
+      "id": "DA492921-B1BF-4A21-9148-15A285E9CC97"
     },
     {
       "class": "bitmap",
-      "id": "9FEE8EA9-0A2D-44EF-A41E-1D77D355F6CB"
-    },
-    {
-      "class": "bitmap",
-      "id": "B083C3B8-F1B7-432C-8B54-96B542E48FDD"
+      "id": "E3E6F3A5-924C-49EF-804E-8C9744613FA2"
     },
     {
       "class": "bitmap",
       "id": "0A676294-321D-4F15-B0A3-8CE1AA30A90D"
     },
     {
+      "class": "group",
+      "id": "CFA0E890-9BC6-4029-8A27-C19B6C01C504"
+    },
+    {
       "class": "bitmap",
-      "id": "58BD520A-CE4E-44B1-9601-CD27BDBEA8EF"
+      "id": "F7A79402-854A-4355-936C-F383ADEE5298"
     },
     {
-      "class": "shapeGroup",
-      "id": "D80808E5-AD8C-44F9-A6E8-F0977472754B"
+      "class": "group",
+      "id": "AF6CA015-B40C-4A7A-B9BE-95E0AA88D5EB"
     },
     {
-      "class": "shapeGroup",
-      "id": "162CB3D1-70D0-4B7C-8C44-100128FE9EEB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F018C9E7-56DA-4880-9931-55998A709570"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2CDCB68F-D2BF-475D-B477-CDC8733056EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0AE9C55B-7415-4AD2-90CA-57E3F97494AE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9698086C-D919-4228-A59C-09022D3AD571"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "93C6AF19-EA61-4A4B-AE85-9FFE218F94EB"
+      "class": "bitmap",
+      "id": "604AB89A-233F-475E-BE60-D65453ACD9A0"
     }
   ],
   "name": "Moodboard Collage",
@@ -109,10 +87,9 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
