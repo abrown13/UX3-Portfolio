@@ -43,12 +43,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "7A052BD3-B1C2-41A7-9B61-42552672F098"
+      "class": "bitmap",
+      "id": "AFADE2D9-EFC7-40D0-B777-56688EB3DCD3"
     },
     {
-      "class": "bitmap",
-      "id": "7688D758-503E-4B49-9652-B0EA00C628B2"
+      "class": "shapeGroup",
+      "id": "7A052BD3-B1C2-41A7-9B61-42552672F098"
     },
     {
       "class": "bitmap",
@@ -81,6 +81,10 @@
     {
       "class": "bitmap",
       "id": "604AB89A-233F-475E-BE60-D65453ACD9A0"
+    },
+    {
+      "class": "bitmap",
+      "id": "B24A3894-B79D-4A86-AEBD-F0F4E7E6E278"
     }
   ],
   "name": "Moodboard Collage",

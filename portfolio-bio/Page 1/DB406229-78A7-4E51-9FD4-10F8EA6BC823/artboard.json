@@ -48,11 +48,19 @@
     },
     {
       "class": "text",
-      "id": "181C23C9-25F6-4610-911F-3152F982E47A"
+      "id": "7E53591D-A3DB-484E-8BE8-19FFCA195901"
     },
     {
       "class": "text",
-      "id": "7E53591D-A3DB-484E-8BE8-19FFCA195901"
+      "id": "51BF903B-EC84-4BC1-87D9-13146A483B47"
+    },
+    {
+      "class": "bitmap",
+      "id": "60E56FF8-BD15-4DC2-9E69-4C062C42500C"
+    },
+    {
+      "class": "bitmap",
+      "id": "F2CCB1C9-FBA2-48FD-BDEC-4B9DE6D4A2F8"
     }
   ],
   "name": "Bio",
