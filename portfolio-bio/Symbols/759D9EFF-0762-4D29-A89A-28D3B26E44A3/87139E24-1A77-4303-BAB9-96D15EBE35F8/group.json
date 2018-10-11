@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "11EE2DE2-2B63-4479-8687-C12CA4096A4C",
+  "_class": "group",
+  "do_objectID": "87139E24-1A77-4303-BAB9-96D15EBE35F8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 16,
+    "width": 22,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,19 +26,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "A2FB086F-389C-4C53-AE0E-29D8BF9F54D7"
+      "class": "shapeGroup",
+      "id": "2D84EAC9-9BC9-4CB6-8D8A-E2AE82154DBA"
     },
     {
-      "class": "artboard",
-      "id": "DB406229-78A7-4E51-9FD4-10F8EA6BC823"
-    },
-    {
-      "class": "artboard",
-      "id": "F7EE9AA7-22E1-4BF8-BFD0-B1064DEE4A2A"
+      "class": "shapeGroup",
+      "id": "DDC5B05D-0A78-4214-BBD9-84D3ACD9D839"
     }
   ],
-  "name": "Page 1",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,11 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

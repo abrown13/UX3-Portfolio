@@ -1,25 +1,17 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1385422945022583,
-    "green": 0.6503673195838928,
-    "red": 0.9617109894752502
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "do_objectID": "DB406229-78A7-4E51-9FD4-10F8EA6BC823",
+  "changeIdentifier": 6,
+  "do_objectID": "BA21A3A3-61E1-47E7-9BF8-901D5552BC66",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -29,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 792,
-    "width": 612,
-    "x": 94,
-    "y": 114
+    "height": 57,
+    "width": 215,
+    "x": 566,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -53,34 +46,11 @@
   "layers": [
     {
       "class": "text",
-      "id": "0A180744-7F8B-4A03-8824-00E4A52CE62E"
-    },
-    {
-      "class": "text",
-      "id": "7E53591D-A3DB-484E-8BE8-19FFCA195901"
-    },
-    {
-      "class": "text",
-      "id": "51BF903B-EC84-4BC1-87D9-13146A483B47"
-    },
-    {
-      "class": "bitmap",
-      "id": "60E56FF8-BD15-4DC2-9E69-4C062C42500C"
-    },
-    {
-      "class": "bitmap",
-      "id": "F2CCB1C9-FBA2-48FD-BDEC-4B9DE6D4A2F8"
+      "id": "B1FE85DD-0B08-4B81-82BD-17EC02F05B92"
     }
   ],
-  "name": "Bio",
+  "name": "headings/subhead",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 792,
-    "name": "Letter",
-    "offersLandscapeVariant": 1,
-    "width": 612
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "E9920CAA-7CF2-4EDD-A2E6-BD6CEFA82906",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
