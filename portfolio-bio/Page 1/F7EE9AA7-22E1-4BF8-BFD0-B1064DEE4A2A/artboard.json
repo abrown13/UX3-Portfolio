@@ -65,10 +65,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C3355348-E101-4188-B2FA-B5309050B039"
-    },
-    {
-      "class": "symbolInstance",
       "id": "181BFDA3-F9E6-4518-96B4-9F61C749695B"
     },
     {
@@ -101,6 +97,10 @@
     },
     {
       "class": "shapeGroup",
+      "id": "856370E8-7CC1-4E6B-B076-76044C811D3C"
+    },
+    {
+      "class": "shapeGroup",
       "id": "75E292B7-3D81-4924-89B2-59E6AC747102"
     },
     {
@@ -109,15 +109,15 @@
     },
     {
       "class": "shapeGroup",
-      "id": "856370E8-7CC1-4E6B-B076-76044C811D3C"
-    },
-    {
-      "class": "shapeGroup",
       "id": "9E78142D-C090-44D7-B42D-F896951C0E2C"
     },
     {
       "class": "shapeGroup",
       "id": "67F7AC27-E827-4315-A080-8034ED97B3B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3355348-E101-4188-B2FA-B5309050B039"
     },
     {
       "class": "symbolInstance",
@@ -150,6 +150,26 @@
     {
       "class": "symbolInstance",
       "id": "5D9BD384-1CDC-4278-B097-8E83FFFE8360"
+    },
+    {
+      "class": "text",
+      "id": "A4B279EF-A9E1-47EE-82DA-56DBE9DB5B05"
+    },
+    {
+      "class": "text",
+      "id": "046782C0-5815-4522-8799-58B1FFDCAB0F"
+    },
+    {
+      "class": "text",
+      "id": "11584C21-EFE2-4F3C-8554-6A88ADAD4B55"
+    },
+    {
+      "class": "text",
+      "id": "0CE8728C-84E4-4FE3-8251-716F27499551"
+    },
+    {
+      "class": "bitmap",
+      "id": "50DEEB3A-A2F4-4CBE-B93A-2E5B514339AE"
     }
   ],
   "name": "Style Tile",

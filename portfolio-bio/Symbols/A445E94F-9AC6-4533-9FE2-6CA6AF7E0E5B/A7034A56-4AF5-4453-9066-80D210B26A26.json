@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Link"
+    "string": "Default Link"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A7034A56-4AF5-4453-9066-80D210B26A26",
@@ -52,18 +52,18 @@
     "constrainProportions": false,
     "do_objectID": "4203EF49-AE97-4868-9A2D-C14C4C4CAF5C",
     "height": 16,
-    "width": 27,
+    "width": 219,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 2}, {26, 11}}",
+  "glyphBounds": "{{1, 2}, {76, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Link Copy",
+  "name": "Default Link",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,5 +104,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

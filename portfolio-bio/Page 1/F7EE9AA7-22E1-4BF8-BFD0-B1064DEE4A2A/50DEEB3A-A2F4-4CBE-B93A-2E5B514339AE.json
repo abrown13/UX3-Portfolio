@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "97D96954-747B-42CD-A4BA-D31856C1FF1A",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "50DEEB3A-A2F4-4CBE-B93A-2E5B514339AE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,35 +11,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 30,
-    "width": 100,
-    "x": 251,
-    "y": 346
+    "constrainProportions": true,
+    "height": 17,
+    "width": 19,
+    "x": 193,
+    "y": 539
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/53dcc657b4173cc59e4406071eb07fe768f24f9c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/disabled",
+  "name": "invision_icon_white",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "03A83EF8-2B1C-42A7-8A3D-C694E3FE5CA1",
-  "verticalSpacing": 0
+  }
 }

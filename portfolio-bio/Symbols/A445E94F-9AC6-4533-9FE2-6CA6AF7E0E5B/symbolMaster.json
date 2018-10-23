@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 242,
   "do_objectID": "A445E94F-9AC6-4533-9FE2-6CA6AF7E0E5B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 27,
+    "width": 77,
     "x": 1591,
     "y": 0
   },
@@ -51,7 +51,7 @@
   ],
   "name": "link/default",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
