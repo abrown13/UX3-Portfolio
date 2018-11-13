@@ -36,7 +36,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -145,6 +145,10 @@
     {
       "class": "symbolInstance",
       "id": "2201C3B5-03CC-423C-A286-64F74F70F935"
+    },
+    {
+      "class": "bitmap",
+      "id": "25CDDE3C-5FEF-4CD1-AC42-BD6BBD11C5C3"
     }
   ],
   "layout": {

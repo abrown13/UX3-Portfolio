@@ -17,8 +17,8 @@
     "do_objectID": "EC5A6DE9-468B-48D7-AA7A-2D61FAE85838",
     "height": 16,
     "width": 157,
-    "x": 168,
-    "y": 232
+    "x": 205,
+    "y": 248
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "FF5C1E9B-2FD7-4F06-AB49-E6CA4A90806C",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "January - April 2018"
+      "value": "May 2018"
     }
   ],
   "resizingConstraint": 63,

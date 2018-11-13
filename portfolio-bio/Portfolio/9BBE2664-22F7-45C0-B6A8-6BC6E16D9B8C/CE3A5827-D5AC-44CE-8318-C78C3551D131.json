@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "AAB67418-D1FA-46BE-83BB-14488670B3FB",
     "height": 16,
-    "width": 264,
-    "x": 168,
+    "width": 267,
+    "x": 205,
     "y": 168
   },
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "E1EBFE4F-3A93-405E-A773-137579B7E222",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "The secret menu for coffee stands"
+      "value": "The most interesting route instead"
     }
   ],
   "resizingConstraint": 63,

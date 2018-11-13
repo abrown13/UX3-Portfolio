@@ -51,7 +51,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3F82F804-A750-411D-8594-80AB8E569578",
-    "height": 16,
+    "height": 17,
     "width": 65,
     "x": 0,
     "y": 0
@@ -104,5 +104,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

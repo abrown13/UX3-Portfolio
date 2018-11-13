@@ -16,9 +16,9 @@
     "constrainProportions": false,
     "do_objectID": "0EA74E47-CC83-48E5-BE7D-BB6D6030BCC0",
     "height": 16,
-    "width": 96,
-    "x": 168,
-    "y": 200
+    "width": 230,
+    "x": 205,
+    "y": 216
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "B44D2C20-C891-45FD-A35C-6211CA6939EF",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "Epicurrence"
+      "value": "Eastern Washinton University"
     }
   ],
   "resizingConstraint": 63,

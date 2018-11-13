@@ -17,8 +17,8 @@
     "do_objectID": "004D1B9C-8AD2-4465-BAFD-4D0C0C6CAB8A",
     "height": 16,
     "width": 96,
-    "x": 168,
-    "y": 200
+    "x": 205,
+    "y": 272
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "B44D2C20-C891-45FD-A35C-6211CA6939EF",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "Epicurrence"
+      "value": "Kindle"
     }
   ],
   "resizingConstraint": 63,

@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "B1185AB4-12CC-43EE-8364-F2F150907A29",
+  "do_objectID": "BC8D80AF-7578-4C4E-8A09-B7AF70EFAAFE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FEDAEF74-8F0E-4013-B15C-8FE170D93C08",
+    "do_objectID": "E1691ECF-BCA4-4537-B191-02442B15CC2C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "59A84F60-97B7-44F2-AE7E-E20566216F4A",
-    "height": 16,
-    "width": 130,
-    "x": 168,
-    "y": 440
+    "do_objectID": "EE77561A-A5DB-4B79-80B0-85F059820E67",
+    "height": 57,
+    "width": 336,
+    "x": 32,
+    "y": 63
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,14 +26,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "text/info copy 12",
+  "name": "headings/subhead",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "91886D81-D9BE-4794-95C5-CECF5C1E7FC7",
-      "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "Usability Testing"
+      "do_objectID": "04B80C14-7CD2-4F8E-8A09-1C8C4378B2D1",
+      "overrideName": "B1FE85DD-0B08-4B81-82BD-17EC02F05B92_stringValue",
+      "value": "The Problem"
     }
   ],
   "resizingConstraint": 63,
@@ -43,11 +43,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F10C5E25-969A-4B0C-9C6A-33D65AACC217",
+    "do_objectID": "27A33C0A-F223-4D1F-8EC5-34239966E9D2",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "84C390E5-C8DC-4DA4-8C6A-D589051EB034",
+  "symbolID": "E9920CAA-7CF2-4EDD-A2E6-BD6CEFA82906",
   "verticalSpacing": 0
 }

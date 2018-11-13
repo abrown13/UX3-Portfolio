@@ -17,8 +17,8 @@
     "do_objectID": "8DE9902E-D0D4-4932-B57A-EB260516FDD7",
     "height": 16,
     "width": 144,
-    "x": 168,
-    "y": 472
+    "x": 205,
+    "y": 416
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "D3DFF3A0-0EF0-44C9-ABE7-72FC82BAFF8E",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "Website"
+      "value": "mobile application"
     }
   ],
   "resizingConstraint": 63,

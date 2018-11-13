@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "8EC41824-0F1D-40FE-BEA5-7DBB04851BC6",
+  "do_objectID": "56EE86C0-0178-43FE-8696-C1B7B1644CFA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DA810A8D-4591-4B20-879E-CC3CE8F70C3D",
+    "do_objectID": "8C545C54-278A-464D-B61C-FFBCC05AFD79",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "42E530F9-D0C9-4296-8E93-958F2699EE6C",
+    "do_objectID": "330C5C6E-823C-4600-AD1E-0EA8AD798051",
     "height": 16,
-    "width": 166,
-    "x": 168,
-    "y": 416
+    "width": 264,
+    "x": 205,
+    "y": 184
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,14 +26,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "text/info copy 11",
+  "name": "text/info copy 8",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B697C3D6-B7FF-485B-BD7B-7D3010586595",
+      "do_objectID": "E1EBFE4F-3A93-405E-A773-137579B7E222",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "Heuristic evaluations"
+      "value": "of the quickest"
     }
   ],
   "resizingConstraint": 63,
@@ -43,7 +43,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "03C8B0B7-B1E7-40A1-82B7-A7C3C8FE71C5",
+    "do_objectID": "92403D58-2E1A-422E-A320-B1AB559A7F51",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

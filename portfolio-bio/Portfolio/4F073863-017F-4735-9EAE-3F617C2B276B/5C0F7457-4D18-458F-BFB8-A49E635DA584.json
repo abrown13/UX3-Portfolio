@@ -17,8 +17,8 @@
     "do_objectID": "98B15187-3227-4D73-84B5-A9281412E7A4",
     "height": 16,
     "width": 264,
-    "x": 168,
-    "y": 168
+    "x": 205,
+    "y": 240
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "E1EBFE4F-3A93-405E-A773-137579B7E222",
       "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
-      "value": "The secret menu for coffee stands"
+      "value": "Redesign Kindle book buying"
     }
   ],
   "resizingConstraint": 63,

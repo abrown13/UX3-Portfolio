@@ -16,9 +16,9 @@
     "constrainProportions": false,
     "do_objectID": "B84D17A4-67B3-46F9-AFB0-71B9DEB5A6A8",
     "height": 61,
-    "width": 616,
-    "x": 32,
-    "y": 64
+    "width": 416,
+    "x": 35,
+    "y": 133
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
       "_class": "overrideValue",
       "do_objectID": "EDB9438E-8D0F-49E4-9EC8-5006A55C1220",
       "overrideName": "77BCE9D7-29E7-4F6A-84EB-FB15A439E434_stringValue",
-      "value": "Kindle Redesign"
+      "value": "Redesign"
     }
   ],
   "resizingConstraint": 63,
