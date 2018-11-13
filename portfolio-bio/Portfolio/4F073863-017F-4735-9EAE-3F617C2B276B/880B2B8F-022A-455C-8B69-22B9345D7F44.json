@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "880B2B8F-022A-455C-8B69-22B9345D7F44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F31E0191-8FAC-4783-876B-EF58D47EA244",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BED1521-CD46-4791-9BF4-F3A1D87B035B",
+    "height": 16,
+    "width": 91,
+    "x": 168,
+    "y": 368
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/info copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B697C3D6-B7FF-485B-BD7B-7D3010586595",
+      "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
+      "value": "User flows"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "804E98D3-9772-4CD2-B254-41D58C8444EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "84C390E5-C8DC-4DA4-8C6A-D589051EB034",
+  "verticalSpacing": 0
+}

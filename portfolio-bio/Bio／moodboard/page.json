@@ -45,8 +45,8 @@
       "id": "F7EE9AA7-22E1-4BF8-BFD0-B1064DEE4A2A"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Bio/moodboard",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

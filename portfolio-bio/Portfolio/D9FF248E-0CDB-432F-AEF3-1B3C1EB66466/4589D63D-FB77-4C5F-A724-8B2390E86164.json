@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4589D63D-FB77-4C5F-A724-8B2390E86164",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C898316C-8C00-4E3C-ADC4-9EC3F3CA831E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3EBA3EF-07D1-4684-81A8-4B32E99683C1",
+    "height": 16,
+    "width": 60,
+    "x": 168,
+    "y": 288
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/info copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91886D81-D9BE-4794-95C5-CECF5C1E7FC7",
+      "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
+      "value": "Invision"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25305287-C66D-470C-9E1E-5473ACE03FF4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "84C390E5-C8DC-4DA4-8C6A-D589051EB034",
+  "verticalSpacing": 0
+}

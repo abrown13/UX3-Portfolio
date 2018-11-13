@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "9DA3C436-3E24-406F-A866-101179B8E6B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -361,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D9FF248E-0CDB-432F-AEF3-1B3C1EB66466"
+    },
+    {
+      "class": "artboard",
+      "id": "ED3BD553-ECB1-4786-B824-E90FC0B39043"
+    },
+    {
+      "class": "artboard",
+      "id": "9BBE2664-22F7-45C0-B6A8-6BC6E16D9B8C"
+    },
+    {
+      "class": "artboard",
+      "id": "4F073863-017F-4735-9EAE-3F617C2B276B"
+    }
+  ],
+  "name": "Portfolio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -224,
+    "guides": [
+    ]
+  }
+}

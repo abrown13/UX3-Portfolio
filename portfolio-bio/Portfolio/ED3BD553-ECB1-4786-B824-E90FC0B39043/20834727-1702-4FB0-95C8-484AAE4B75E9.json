@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "20834727-1702-4FB0-95C8-484AAE4B75E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6E2D4FE-AAEA-48E0-AD8D-FD1A9A4BE351",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7BAA65A-5CC3-4210-96A0-074B0D4CE4F8",
+    "height": 16,
+    "width": 264,
+    "x": 168,
+    "y": 168
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1EBFE4F-3A93-405E-A773-137579B7E222",
+      "overrideName": "A52D9AE4-52A6-4695-8775-8E63A348C1B1_stringValue",
+      "value": "The secret menu for coffee stands"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "949AE7F2-7C53-48E8-94B1-F7C398A30930",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "84C390E5-C8DC-4DA4-8C6A-D589051EB034",
+  "verticalSpacing": 0
+}
