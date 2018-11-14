@@ -116,10 +116,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EB15D7B6-300C-46E8-B824-D82F9EBD2F25"
-    },
-    {
-      "class": "symbolInstance",
       "id": "23975C2D-BE90-4FC3-9A96-54A912EA0163"
     },
     {
@@ -147,8 +143,8 @@
       "id": "2201C3B5-03CC-423C-A286-64F74F70F935"
     },
     {
-      "class": "bitmap",
-      "id": "25CDDE3C-5FEF-4CD1-AC42-BD6BBD11C5C3"
+      "class": "text",
+      "id": "717FF637-471B-4A89-BED4-A82595ED906B"
     }
   ],
   "layout": {

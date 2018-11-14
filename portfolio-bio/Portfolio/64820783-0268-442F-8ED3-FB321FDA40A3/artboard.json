@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "C4BFB452-DF3C-42A0-B84E-ED47F77002AA",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,15 +60,15 @@
     },
     {
       "class": "bitmap",
-      "id": "F7B0D707-5741-49E0-BF19-135D797EEAE6"
-    },
-    {
-      "class": "bitmap",
-      "id": "27882F6B-BE87-4234-BF02-1CFEBB92C782"
+      "id": "3A567FA1-6F6A-41D8-99D6-5C49B7A40A1D"
     },
     {
       "class": "shapeGroup",
       "id": "E6602454-3C30-4197-A43A-B53D0BD9100A"
+    },
+    {
+      "class": "bitmap",
+      "id": "D211CE0B-643D-4BB9-898E-B0E9BA818535"
     },
     {
       "class": "shapeGroup",
@@ -102,7 +102,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224
