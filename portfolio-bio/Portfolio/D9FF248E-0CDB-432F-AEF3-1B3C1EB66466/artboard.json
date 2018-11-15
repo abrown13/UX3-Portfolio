@@ -128,6 +128,14 @@
     {
       "class": "text",
       "id": "84086AF6-A18F-4A69-BDAD-A8001D03EF6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9AB4CBD5-B0FE-4344-A82E-39CD192C8B07"
+    },
+    {
+      "class": "bitmap",
+      "id": "46A4F4E9-A2D5-4F2D-9F29-62E8BE80580A"
     }
   ],
   "layout": {
