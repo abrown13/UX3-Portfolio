@@ -69,27 +69,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "571A249D-D7CC-48D9-9A9E-009107095FC3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4D746AF2-CA6C-4F04-B398-B91A6E9DC5C2"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F2383DB8-3803-4C6A-ACCD-F9A7D038404D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "887DB973-8135-41FD-BF92-FD6732F216F2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1F41BFE7-2B1A-4D07-A3E6-5E935776C6AE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "97D96954-747B-42CD-A4BA-D31856C1FF1A"
     },
     {
       "class": "shapeGroup",
@@ -112,64 +92,12 @@
       "id": "9E78142D-C090-44D7-B42D-F896951C0E2C"
     },
     {
-      "class": "shapeGroup",
-      "id": "67F7AC27-E827-4315-A080-8034ED97B3B3"
-    },
-    {
       "class": "symbolInstance",
       "id": "C3355348-E101-4188-B2FA-B5309050B039"
     },
     {
       "class": "symbolInstance",
       "id": "A46D364E-FADA-42F9-8670-2A9AF5CD293D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E1AEBAB9-DB7B-4D96-BA76-BEBE66E3A839"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "711CF800-94D3-440C-B6C5-99CC73EA9417"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EA7795A4-F654-4BFA-B248-76531BAC87AB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4986D4C2-0BF0-4F7F-A76E-B855BAD3C23A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6919D699-93AF-4D94-84B2-76CF326A2A50"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "45D0F81A-CF12-4EDB-A861-85A140E41DFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5D9BD384-1CDC-4278-B097-8E83FFFE8360"
-    },
-    {
-      "class": "text",
-      "id": "A4B279EF-A9E1-47EE-82DA-56DBE9DB5B05"
-    },
-    {
-      "class": "text",
-      "id": "046782C0-5815-4522-8799-58B1FFDCAB0F"
-    },
-    {
-      "class": "text",
-      "id": "11584C21-EFE2-4F3C-8554-6A88ADAD4B55"
-    },
-    {
-      "class": "text",
-      "id": "0CE8728C-84E4-4FE3-8251-716F27499551"
-    },
-    {
-      "class": "bitmap",
-      "id": "50DEEB3A-A2F4-4CBE-B93A-2E5B514339AE"
     }
   ],
   "name": "Style Tile",
