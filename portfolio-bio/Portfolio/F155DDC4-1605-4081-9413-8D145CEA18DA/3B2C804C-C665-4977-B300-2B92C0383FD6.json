@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3B2C804C-C665-4977-B300-2B92C0383FD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB8AB828-AAB5-47A9-89C0-D56760C331A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80222420-78C6-41E9-B991-085C63DA442E",
+    "height": 56,
+    "width": 336,
+    "x": 32,
+    "y": 440
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "headings/subhead copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04B80C14-7CD2-4F8E-8A09-1C8C4378B2D1",
+      "overrideName": "B1FE85DD-0B08-4B81-82BD-17EC02F05B92_stringValue",
+      "value": "The Solution"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34582F73-8A65-4770-8BD7-BDDF5476AAE2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E9920CAA-7CF2-4EDD-A2E6-BD6CEFA82906",
+  "verticalSpacing": 0
+}

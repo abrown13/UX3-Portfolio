@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8415986F-D0A7-499F-8EC6-C9184274C9CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D08DE70A-6FCF-4A09-ABBA-FD2E64C3F544",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B31BBA5-F539-4FCC-AC3E-38CAA3BF9D53",
+    "height": 57,
+    "width": 336,
+    "x": 32,
+    "y": 63
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "headings/subhead",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04B80C14-7CD2-4F8E-8A09-1C8C4378B2D1",
+      "overrideName": "B1FE85DD-0B08-4B81-82BD-17EC02F05B92_stringValue",
+      "value": "Wireframes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0A4443B-1A91-4C27-A600-96D36219E910",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E9920CAA-7CF2-4EDD-A2E6-BD6CEFA82906",
+  "verticalSpacing": 0
+}

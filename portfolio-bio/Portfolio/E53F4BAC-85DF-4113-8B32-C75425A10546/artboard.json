@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5254901960784314,
+    "do_objectID": "04633D2F-1821-46CA-9BA8-2C9516629A48",
+    "green": 0.5450980392156862,
+    "red": 0.8
+  },
+  "do_objectID": "E53F4BAC-85DF-4113-8B32-C75425A10546",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73DC355F-AB32-4670-A0AD-452CB42E6033",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59AFF78E-D98F-435C-A9F1-033897F46BFA",
+    "height": 792,
+    "width": 1224,
+    "x": 4849,
+    "y": 2453
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4F43F38B-61EF-41A4-9C59-56F3D0EBF58C",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "85E13B6A-F6B5-4818-AD26-EE15B23E9DA7",
+    "guides": [
+      32
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7B95B864-47AD-4539-A2CD-E7E7467AD77E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 94.66666666666667,
+    "do_objectID": "B79EBEDE-0E7A-4198-8FD2-67866DF202A4",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1224
+  },
+  "name": "Kindle 2 Copy 3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 612,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 792
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D48E105-B383-48B7-AB1B-AD34283ED5F6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1379F25E-EEAF-48CA-96FB-4880C6EC33FE",
+    "guides": [
+      64
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "87346BDA-D5E8-4A09-B93A-8034DF74C3CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE003071-7EA3-4459-B198-599CB5384811",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0CBE8FEC-EAB1-43B4-A341-96CDEE9EF4A4",
+    "height": 382,
+    "width": 196,
+    "x": 257.370489570875,
+    "y": -176.5891478771722
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e4128f99ff64c0f45afedd65bfec7b35f94911bc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mapcoolbeans.jpg",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 30,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5556CF65-2F11-4129-98A3-DCC8D1AF2F77",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

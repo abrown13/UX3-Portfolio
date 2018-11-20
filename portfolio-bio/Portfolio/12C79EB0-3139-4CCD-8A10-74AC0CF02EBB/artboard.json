@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5254901960784314,
+    "do_objectID": "E5C10EB4-F6E7-4731-B0FC-E26DF97685A2",
+    "green": 0.5450980392156862,
+    "red": 0.8
+  },
+  "do_objectID": "12C79EB0-3139-4CCD-8A10-74AC0CF02EBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "646A3C92-053F-4430-BF07-B4C9E098916E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60925AE9-359F-4D42-8976-390613C24ECE",
+    "height": 792,
+    "width": 1224,
+    "x": 2354,
+    "y": -156
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "CE7857E9-578C-43C3-B237-2C8F8C271722",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D2E0876-8B7F-479A-99A0-5F9C8DFEF0C7",
+    "guides": [
+      32
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8415986F-D0A7-499F-8EC6-C9184274C9CE"
+    },
+    {
+      "class": "text",
+      "id": "EEAADB17-0B61-4666-ABF0-4A50D13B47ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4D6A781-A57C-4F1F-8B97-0BBED56AED11"
+    },
+    {
+      "class": "bitmap",
+      "id": "F5D7BDAC-E829-4E43-AEE9-7E5A69EB0C23"
+    },
+    {
+      "class": "bitmap",
+      "id": "37CA64DD-830D-433D-813E-D78349F4F83A"
+    },
+    {
+      "class": "bitmap",
+      "id": "F42D767C-120C-46D4-A22F-B94ED075EAE4"
+    },
+    {
+      "class": "bitmap",
+      "id": "C14CFACB-D265-451C-BF25-00C38A0FD9AA"
+    },
+    {
+      "class": "bitmap",
+      "id": "BC2BCFD2-23C7-499B-9E60-FAFD0E1F8553"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 94.66666666666667,
+    "do_objectID": "47A91933-0BE4-4C3A-A34A-31123AAA816E",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1224
+  },
+  "name": "Express-O 2 Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 612,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 792
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E0556C7-0CD3-4819-B630-F8260C344862",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F0BD24F-E0BF-4915-BA94-3676DC97BA16",
+    "guides": [
+      64
+    ]
+  }
+}

@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "4BEB09A3-7AF4-4A3F-8BE5-75B9D228AB2E",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
@@ -149,6 +149,10 @@
     {
       "class": "shapeGroup",
       "id": "347479BD-D9E9-42F8-B464-BF54D067AEEB"
+    },
+    {
+      "class": "bitmap",
+      "id": "E60F1F41-696E-4D62-A3D4-7A72961B1EA6"
     }
   ],
   "layout": {
@@ -162,7 +166,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224
