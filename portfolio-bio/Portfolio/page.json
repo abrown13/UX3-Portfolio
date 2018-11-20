@@ -21,7 +21,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasClickThrough": true,

@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "3257EAA7-77CA-478A-91C0-5601E922E75D",
+  "_class": "symbolInstance",
+  "do_objectID": "A90F467A-BF13-4795-B30B-BF55115D41DF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,36 +10,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 286,
-    "width": 163,
-    "x": 549,
-    "y": 146
+    "constrainProportions": false,
+    "height": 32,
+    "width": 144,
+    "x": 64,
+    "y": 632
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/1404d5c93a256834c59ca283d77f7b420ec6608a.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Read",
+  "name": "buttons/default",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "82689F52-75A2-40BB-9838-985380745809",
+  "verticalSpacing": 0
 }

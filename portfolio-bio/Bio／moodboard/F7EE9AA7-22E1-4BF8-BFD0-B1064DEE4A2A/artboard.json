@@ -98,6 +98,22 @@
     {
       "class": "symbolInstance",
       "id": "A46D364E-FADA-42F9-8670-2A9AF5CD293D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "417737EB-3831-4195-BC5C-D19FD678FC56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E62ECBD-9C37-4125-B663-0888BFF0488B"
+    },
+    {
+      "class": "text",
+      "id": "52001A43-D2D2-4531-884C-F67DB7DE29BF"
+    },
+    {
+      "class": "text",
+      "id": "0A7F7A7B-75CF-485D-A843-BD659529A308"
     }
   ],
   "name": "Style Tile",

@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "35E2E338-0D01-4F75-B150-BBAEED10851F",
+  "_class": "symbolInstance",
+  "do_objectID": "20E04025-0538-405B-9EB5-168506726A9C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,36 +10,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 286,
-    "width": 163,
-    "x": 204,
-    "y": 146
+    "constrainProportions": false,
+    "height": 32,
+    "width": 144,
+    "x": 64,
+    "y": 680
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/1a94a8d45c470fe9a8b6eecf075589d3a25c5485.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buy now",
+  "name": "button",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "82689F52-75A2-40BB-9838-985380745809",
+  "verticalSpacing": 0
 }

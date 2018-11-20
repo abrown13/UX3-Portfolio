@@ -133,6 +133,10 @@
     {
       "class": "text",
       "id": "4DDBCC98-41C1-408E-8AB6-C600F91F1184"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A90F467A-BF13-4795-B30B-BF55115D41DF"
     }
   ],
   "layout": {

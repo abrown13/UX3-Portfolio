@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "C14148DF-2493-465D-A80B-B28135431790",
+  "_class": "symbolInstance",
+  "do_objectID": "EC0896A2-C6BF-476C-BE4F-A03E5DD5FF67",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,36 +10,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 275,
-    "width": 155,
-    "x": 36,
-    "y": 455
+    "constrainProportions": false,
+    "height": 32,
+    "width": 144,
+    "x": 64,
+    "y": 672
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/f4e3a3fe6a8cd14eaca078600cbca2b901b30f65.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Log out 1",
+  "name": "buttons/default",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "82689F52-75A2-40BB-9838-985380745809",
+  "verticalSpacing": 0
 }

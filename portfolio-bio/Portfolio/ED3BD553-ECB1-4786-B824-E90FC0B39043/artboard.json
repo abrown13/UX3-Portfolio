@@ -153,6 +153,10 @@
     {
       "class": "bitmap",
       "id": "E60F1F41-696E-4D62-A3D4-7A72961B1EA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EC0783D-1AF2-4B22-9992-48129E8B7109"
     }
   ],
   "layout": {
@@ -166,7 +170,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224
