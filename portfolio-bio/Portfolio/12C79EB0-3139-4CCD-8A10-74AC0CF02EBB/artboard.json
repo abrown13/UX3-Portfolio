@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "CE7857E9-578C-43C3-B237-2C8F8C271722",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
@@ -98,7 +98,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224

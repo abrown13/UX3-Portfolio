@@ -32,11 +32,11 @@
     "_class": "simpleGrid",
     "do_objectID": "1749491F-9DA0-4C69-9717-AA6AFD01744F",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +57,38 @@
     {
       "class": "symbolInstance",
       "id": "D4EC68B2-829A-413C-B9A9-C63A9F68B61E"
+    },
+    {
+      "class": "bitmap",
+      "id": "CE9C7B3A-3CF0-420F-8CC3-B84FD468A830"
+    },
+    {
+      "class": "bitmap",
+      "id": "3572222F-BCE6-4FB2-905C-9698BEECF7BB"
+    },
+    {
+      "class": "bitmap",
+      "id": "35E2E338-0D01-4F75-B150-BBAEED10851F"
+    },
+    {
+      "class": "bitmap",
+      "id": "D8E221D3-016B-45C8-8A51-6657D8016F88"
+    },
+    {
+      "class": "bitmap",
+      "id": "3257EAA7-77CA-478A-91C0-5601E922E75D"
+    },
+    {
+      "class": "bitmap",
+      "id": "89E3A9FD-00F7-4D6E-8D0A-FB1F960DBB67"
+    },
+    {
+      "class": "bitmap",
+      "id": "C14148DF-2493-465D-A80B-B28135431790"
+    },
+    {
+      "class": "bitmap",
+      "id": "15FB341E-F9E0-4D9D-A5AD-FEBEB0B5F073"
     }
   ],
   "layout": {
@@ -70,7 +102,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224

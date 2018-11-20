@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "148D4CAA-D230-4C8C-A270-4CC38A3D6ED9",
-    "height": 382,
-    "width": 196,
-    "x": 990.370489570875,
-    "y": 465.4108521228278
+    "height": 345,
+    "width": 176,
+    "x": 404,
+    "y": 412
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -37,7 +37,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 30,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

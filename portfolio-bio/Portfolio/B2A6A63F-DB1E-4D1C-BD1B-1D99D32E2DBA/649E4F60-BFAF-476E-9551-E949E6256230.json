@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "649E4F60-BFAF-476E-9551-E949E6256230",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36847956-1825-4815-B48E-B46A9C81CF8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E44BF76-23C9-46EF-B3D6-8485894D9DF9",
+    "height": 16,
+    "width": 184,
+    "x": 64,
+    "y": 272
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/title copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6803267-FB16-4375-99E9-5988025A0607",
+      "overrideName": "33600773-E863-4D73-AA62-2672C9345C82_stringValue",
+      "value": "Personas/Card sorting"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6AA502D-57BB-4254-AC80-6BB22099BF50",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2BC2A2E0-488F-477C-B125-A5B7B9F7FFDB",
+  "verticalSpacing": 0
+}

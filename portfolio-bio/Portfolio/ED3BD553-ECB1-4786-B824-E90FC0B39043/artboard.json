@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "4BEB09A3-7AF4-4A3F-8BE5-75B9D228AB2E",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,

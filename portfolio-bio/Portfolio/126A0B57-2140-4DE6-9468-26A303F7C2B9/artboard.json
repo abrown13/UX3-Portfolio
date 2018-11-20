@@ -25,7 +25,7 @@
     "do_objectID": "112741B2-F064-4D72-9D3E-A925D22F1234",
     "height": 792,
     "width": 1224,
-    "x": 3649,
+    "x": 2354,
     "y": 720
   },
   "grid": {
@@ -57,6 +57,34 @@
     {
       "class": "symbolInstance",
       "id": "7EE6A017-ABF9-495D-BE8C-E111AE77D98D"
+    },
+    {
+      "class": "group",
+      "id": "5B31E6A1-383A-4A4E-885D-CF4408E47A6D"
+    },
+    {
+      "class": "group",
+      "id": "BD6F816B-83FF-433B-B1F6-20C125011214"
+    },
+    {
+      "class": "bitmap",
+      "id": "416AEFA7-3201-436F-BD8E-BE957553DE15"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBB3B27B-46BC-4C2E-968A-23984140745C"
+    },
+    {
+      "class": "bitmap",
+      "id": "B2659D0E-DE9A-43BA-90C3-F5351B06A9AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6669958-ECEF-4BE7-A30B-B8FE0C31FC21"
+    },
+    {
+      "class": "text",
+      "id": "A4B8B497-5E0D-428D-90B8-DBD9C99F1CA2"
     }
   ],
   "layout": {
