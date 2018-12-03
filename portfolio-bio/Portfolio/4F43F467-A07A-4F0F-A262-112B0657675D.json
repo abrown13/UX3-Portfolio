@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "BAD0BC6F-95FF-490D-A0E0-09F378E45CF2",
+  "do_objectID": "4F43F467-A07A-4F0F-A262-112B0657675D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 794,
-    "width": 1227,
-    "x": 3648,
-    "y": -156
+    "height": 795,
+    "width": 1229,
+    "x": 3647,
+    "y": -158
   },
   "image": {
     "_class": "MSJSONFileReference",
