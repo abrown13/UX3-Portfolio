@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "4F43F467-A07A-4F0F-A262-112B0657675D",
+  "do_objectID": "7A45F74C-E58C-44EA-9609-2484CA1A2D59",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 795,
-    "width": 1229,
-    "x": 3647,
-    "y": -158
+    "height": 418,
+    "width": 200,
+    "x": 272,
+    "y": 462
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/cee595564b5ec9a4d16c346f130c95413a3a8720.png",
+    "_ref": "images/575394e117010300a9532ca0536b83819bab318f.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "expresso",
+  "name": "add",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -45,7 +45,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,6 +63,14 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "665C3F6C-CE5B-4524-B73A-7348D175ABDD"
+    },
+    {
+      "class": "group",
+      "id": "27342C77-DB55-43FE-9917-B19C1ECBA7B3"
+    }
   ],
   "layout": {
     "_class": "layoutGrid",
