@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "FD61E19B-6977-42B1-A100-D6FCE4C66863",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C73F60D9-2772-4874-96DF-7E4BF1BF8F1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "59B8B561-ECAF-4E78-8D59-916E6C90A4D7",
+    "height": 254,
+    "width": 201,
+    "x": 411,
+    "y": 539
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c8d23281f3a14f111e94dca169143804f9d6b15e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "IMG_7046",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDE24D66-133E-493A-B533-83B394625231",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "396C0498-82B9-4721-8D6C-999B73DC8750",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B62894A-372E-4F62-B67C-218FEA914C47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C255D13-AC4A-4802-9C55-9716D0D814D5",
+    "height": 13,
+    "width": 51,
+    "x": 24,
+    "y": 298
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footnotes",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47B4E0EF-7A5C-414D-B900-2C921CC211CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31E7AC5A-03E9-4113-8B66-D9997D3EEA47",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1385422945022583,
+    "do_objectID": "C025CE2E-4EC3-450C-B5A8-896980DDD09F",
+    "green": 0.6503673195838928,
+    "red": 0.9617109894752502
+  },
+  "do_objectID": "1E1746A7-D7BA-43BF-965F-0063F284D46F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64E260FA-E831-4B2F-AB1D-5C6221E2D301",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94672F29-F40F-421B-9B88-19C40AFAEEBC",
+    "height": 792,
+    "width": 612,
+    "x": -484,
+    "y": -668
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "939035EB-9F10-4AA2-9C75-45334A22B292",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5B8B11AD-BE3F-4E74-B282-88357CAC3060"
+    },
+    {
+      "class": "text",
+      "id": "8E17A76E-274E-4E41-B724-8A8070A0803D"
+    },
+    {
+      "class": "text",
+      "id": "F63471CA-7E81-411D-AC9B-30FD2E439CDB"
+    },
+    {
+      "class": "bitmap",
+      "id": "FD61E19B-6977-42B1-A100-D6FCE4C66863"
+    },
+    {
+      "class": "bitmap",
+      "id": "4DF25B56-3F4B-42F3-8D7B-ECCAF33245E6"
+    }
+  ],
+  "name": "Bio",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 612
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDA4A915-28C9-46FC-91E6-26ED8FFE36AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "411E0345-2D24-4E70-B20D-EE0AB49D9AC4",
+    "guides": [
+    ]
+  }
+}
