@@ -147,16 +147,16 @@
       "id": "717FF637-471B-4A89-BED4-A82595ED906B"
     },
     {
-      "class": "shapeGroup",
-      "id": "347479BD-D9E9-42F8-B464-BF54D067AEEB"
-    },
-    {
-      "class": "bitmap",
-      "id": "E60F1F41-696E-4D62-A3D4-7A72961B1EA6"
+      "class": "group",
+      "id": "9F48AAF4-92EB-4FE3-B728-4188A8FFF7DF"
     },
     {
       "class": "symbolInstance",
       "id": "5EC0783D-1AF2-4B22-9992-48129E8B7109"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2976DBCC-121B-4156-BF0A-754381DDBF05"
     }
   ],
   "layout": {

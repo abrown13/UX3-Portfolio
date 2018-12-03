@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "9F48AAF4-92EB-4FE3-B728-4188A8FFF7DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 792,
+    "width": 608,
+    "x": 616,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "347479BD-D9E9-42F8-B464-BF54D067AEEB"
+    },
+    {
+      "class": "bitmap",
+      "id": "94BCE73B-0485-4989-8AEC-0042924ADE02"
+    }
+  ],
+  "name": "spaced-mockup",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

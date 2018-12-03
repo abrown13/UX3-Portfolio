@@ -105,6 +105,10 @@
     {
       "class": "artboard",
       "id": "D4E8A160-9B4B-44C3-B4B4-092A1A3855C6"
+    },
+    {
+      "class": "bitmap",
+      "id": "BAD0BC6F-95FF-490D-A0E0-09F378E45CF2"
     }
   ],
   "layout": {
@@ -117,7 +121,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 0,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

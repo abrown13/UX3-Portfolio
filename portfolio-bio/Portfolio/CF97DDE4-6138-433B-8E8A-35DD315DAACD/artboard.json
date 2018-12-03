@@ -32,7 +32,7 @@
     "_class": "simpleGrid",
     "do_objectID": "DECCC2C3-2F82-4D53-91A8-40F4C954479C",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
@@ -55,12 +55,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "131C2102-57C6-4E5E-A7D9-E46959983091"
+      "class": "group",
+      "id": "CF4B611A-F929-46ED-93B1-B39F2DD813ED"
     },
     {
       "class": "symbolInstance",
-      "id": "E9E0D269-4F78-40BD-9A07-91D6034AB3EC"
+      "id": "FC6499FA-D249-4EAC-9D4A-1F288D9701C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "820F06F9-7FB2-4C0F-B053-766270CA7E73"
     }
   ],
   "layout": {
@@ -74,7 +78,7 @@
     "gutterWidth": 8,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1224

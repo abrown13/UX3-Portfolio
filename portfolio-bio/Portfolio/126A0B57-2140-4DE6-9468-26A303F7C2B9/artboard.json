@@ -36,7 +36,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -83,8 +83,20 @@
       "id": "F6669958-ECEF-4BE7-A30B-B8FE0C31FC21"
     },
     {
+      "class": "symbolInstance",
+      "id": "95905E18-EEBC-45D5-A374-6743A73373C3"
+    },
+    {
       "class": "text",
       "id": "A4B8B497-5E0D-428D-90B8-DBD9C99F1CA2"
+    },
+    {
+      "class": "text",
+      "id": "BD7E542E-68E7-432C-A7FF-EF1C886C6EC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BFD6493-025F-426E-93D6-58F52E7DF409"
     }
   ],
   "layout": {

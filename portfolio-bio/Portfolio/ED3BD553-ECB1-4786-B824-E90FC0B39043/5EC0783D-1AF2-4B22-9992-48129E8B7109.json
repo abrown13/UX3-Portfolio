@@ -27,6 +27,12 @@
   "name": "buttons/default",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66FBCC57-FE71-45FF-872D-9032B141D3B3",
+      "overrideName": "04031ABD-1491-4F8A-B7E1-62B734AA0524_stringValue",
+      "value": "view mobile"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
